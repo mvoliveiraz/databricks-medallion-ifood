@@ -35,19 +35,6 @@ A solução foi desenvolvida seguindo as melhores práticas da **Arquitetura Med
     * **Principais enriquecimentos:** Criação de colunas categóricas (ex: 'Açai', 'Salgados'), mapeamento de IDs de loja para Estados (UF), e criação de nomes fictícios para as lojas para fins de portfólio.
     * Esta tabela é otimizada para consumo direto por ferramentas de BI como o Power BI.
 
-## Principais Análises e Insights
-
-A partir da tabela Gold, foi possível extrair insights como:
-
-* **[Exemplo de Insight 1]** Análise da performance de vendas por Estado, identificando as regiões de maior lucratividade.
-* **[Exemplo de Insight 2]** Comparativo de faturamento entre as categorias de produtos 'Açai' e 'Salgados'.
-* **[Exemplo de Insight 3]** Análise da evolução da receita e do lucro ao longo dos meses.
-
-## Estrutura do Repositório
-
-* **/codigo/pipeline-completa.sql**: Contém todo o script SQL utilizado no Databricks para realizar a transformação completa, da camada Bronze à Gold.
-* **/README.md**: Esta documentação.
-
 ## Autor
 
 * **LinkedIn:** [https://www.linkedin.com/in/mateus-viana-25a44b198/]
